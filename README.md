@@ -18,8 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/justinkim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="justinkim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/erdan aitkaziev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erdan aitkaziev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ysebo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ysebo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/erdanyseboaitkaziev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erdan aitkaziev" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/
+asangulovtimur6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ysebo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
