@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ysebo" alt="ysebo" /></a> </p>
 
-- 🌱 I’m currently learning **OOP of Java**
+- 🌱 I’m currently learning **Spring Boot of Java**
 
 - 👯 I’m looking to collaborate on **Projects connected with OOP on Java**
 
