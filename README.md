@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **aitkazieverdan@gmail.com**
 
-- ⚡ Fun fact **I don't like females.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
