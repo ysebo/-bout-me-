@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Spring Boot of Java**
 
-- 👯 I’m looking to collaborate on **Projects connected with OOP on Java**
+- 👯 I’m looking to collaborate on **Projects connected with OOP + Spring Boot project on Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ysebo](https://github.com/ysebo)
 
-- 💬 Ask me about **rather don't ask me**
+- 💬 Don't ask me questions: ** I don't like interactions with people  **
 
 - 📫 How to reach me **aitkazieverdan@gmail.com**
 
