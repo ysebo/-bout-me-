@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Dockers**
 
-- 👯 I’m looking to collaborate on **Projects connected with Spring Boot(CRUD)**
+- 👯 I’m looking to collaborate on **Projects connected with Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ysebo](https://github.com/ysebo)
 
