@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ysebo" alt="ysebo" /></a> </p>
 
-- 🌱 I’m currently learning**Java8**
+- 🌱 I’m currently learning **Java8**
 
 - 👯 I’m looking to collaborate on **Projects connected with Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ysebo](https://github.com/ysebo)
 
-- 💬 ** I don't like interactions with people  **
+- 💬 I don't like interactions with people  
 
 - 📫 How to reach me **aitkazieverdan@gmail.com**
 
