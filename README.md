@@ -1,6 +1,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ysebo&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=ysebo&theme=radical)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ysebo&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 #### 💻 Tech Stack:
